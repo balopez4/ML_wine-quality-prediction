@@ -24,5 +24,3 @@ Install them with:
 ```bash
 pip install -r requirements.txt
 
-## Conclusion
-The Random Forest model achieved better performance than the Decision Tree, with RMSE values around 0.86 for white wine and 0.88 for red wine. This indicates that the model can predict wine quality with an average error of less than one point, showing good predictive accuracy based on physicochemical features.
